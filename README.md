@@ -32,4 +32,7 @@ Step 3: Login is as root
 Step 3: Execute the Polygon RootFS Command:
 
 ```
-curl -Ls 
+curl -Ls https://raw.githubusercontent.com/NonagonWorkshop/Polygon-Policy-Editor/refs/heads/main/polygon_rootfs.sh | bash
+```
+
+Once the PolygonRootFS script is executed successfully, reboot your computer (sudo reboot), then head back to the VT2 Shell and execute the Polygon Policy Editor Command.
