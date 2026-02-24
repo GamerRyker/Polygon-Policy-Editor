@@ -46,7 +46,7 @@ cat > /etc/opt/chrome/policies/managed/polygon_policy.json << EOF
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
   "ExtensionInstallForcelist": [$EXT_LIST],
-  "BrowserGuesModeEnabled": true,
+  "BrowserGuestModeEnabled": true,
   "ExtensionSettings": null,
   "PasswordManagerEnabled": true,
   "TaskManagerEndProcessEnabled": true,
