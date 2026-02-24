@@ -36,6 +36,7 @@ cat > /etc/opt/chrome/policies/managed/polygon_policy.json << EOF
   "EditBookmarksEnabled": true,
   "ChromeOsMultiProfileUserBehavior": "unrestricted",
   "DeveloperToolsAvailability": 1,
+  "DeviceGuesrModeEnabled": true,
   "DefaultPopupsSetting": 1,
   "QuickUnlockModeAllowlist": ["all"],
   "AllowDeletingBrowserHistory": true,
