@@ -37,6 +37,7 @@ cat > /etc/opt/chrome/policies/managed/polygon_policy.json << EOF
   "ChromeOsMultiProfileUserBehavior": "unrestricted",
   "DeveloperToolsAvailability": 1,
   "DefaultPopupsSetting": 1,
+  "QuickUnlockModeAllowlist": ["all"],
   "AllowDeletingBrowserHistory": true,
   "AllowDinosaurEasterEgg": true,
   "IncognitoModeAvailability": 0,
