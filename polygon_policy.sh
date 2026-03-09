@@ -78,7 +78,10 @@ cat > /etc/opt/chrome/policies/managed/polygon_policy.json << EOF
   "SmartLockSigninAllowed": true,
   "PhoneHubAllowed": true,
   "LacrosAvailability": "user_choice",
-  "WallpaperImage": null,
+  "DeviceWallpaperImage": {
+  "hash": "00a48d1666bf76670a7d238ac969c3c4",
+  "url": "https://drive.google.com/uc?id=16k8dh4Jlx8eekDjptOyqcWy2Fu768UMH"
+},
   "ArcPolicy": {
     "playStoreMode": "ENABLED",
     "installType": "FORCE_INSTALLED",
