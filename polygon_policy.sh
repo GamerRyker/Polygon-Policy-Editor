@@ -23,7 +23,7 @@ echo "=========================================="
 echo ""
 
 # Build extension force-install array inline
-EXT_LIST='"haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml","jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php","mloajfnmjckfjbeeofcdaecbelnblden;https://clients2.google.com/service/update2/crx","ifajfiofeifbbhbionejdliodenmecna;https://clients2.google.com/service/update2/crx","inoeonmfapjbbkmdafoankkfajkcphgd;https://clients2.google.com/service/update2/crx"'
+EXT_LIST='"ekabgjkfjjamlheclbclomdbkijhndjh;https://clients2.google.com/service/update2/crx",'
 
 # Create policy directory if needed
 mkdir -p /etc/opt/chrome/policies/managed
